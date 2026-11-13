@@ -11,6 +11,8 @@ which the competition's two-runs-identical rule requires.
 """
 import os
 
+# One joke, fixed bytes: the judge reads exactly this text and nothing else.
+
 JOKE = ("The AI writes my code, reviews my code, and answers my tickets \u2014 "
         "my only remaining job is taking credit in standup.")
 
